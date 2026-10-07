@@ -34,3 +34,10 @@ Model performance is evaluated using:
 The raw datasets are not included in this repository because of their size.
 
 They should be placed inside a local `Data/` folder.
+
+## Results
+
+- Logistic Regression AUC: 0.924
+- Random Forest AUC: 0.921
+
+![ROC Curve](roc_curve.png)
